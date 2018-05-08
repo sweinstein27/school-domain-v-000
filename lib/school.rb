@@ -19,7 +19,7 @@ end
   end
 
     def sort
-      return roster.sort.grade.sort
+      return roster.sort.student_name.sort
     end
 
 end
