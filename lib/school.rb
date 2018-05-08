@@ -14,4 +14,9 @@ class School
   end
 end
 
+  def grade(grade)
+    return school.grade(grade)
+  end
+  
+
 end
