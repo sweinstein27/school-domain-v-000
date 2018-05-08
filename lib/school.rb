@@ -15,7 +15,7 @@ class School
 end
 
   def grade(grade)
-    return school.grade(grade)
+    return School.grade(grade)
   end
 
 
