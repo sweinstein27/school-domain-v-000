@@ -18,5 +18,8 @@ end
     return roster[grade]
   end
 
+    def sort
+      return roster.sort
+    end
 
 end
